@@ -107,7 +107,7 @@ BANNER = [
 DIRECTORIES = [
   "<span class='directory'>github/</span>",
   "mystery",
-  "<span class='directory'>webPortfolio/</span>",
+  "<span class='directory'>portfolio/</span>",
 ];
 
 EMAIL_INFO = ["<a href=mailto:" + EMAIL + ">" + EMAIL + "</a>"];
