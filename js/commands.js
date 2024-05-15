@@ -126,6 +126,7 @@ EDUCATION_INFO = [
   "|",
   "<strong>천생초등학교</strong> (Cheonsaeng Elementary School)",
   "2014. 3 - 2020. 1",
+  "Graduated (졸업)",
   "|",
   "<strong>약목중학교</strong> (YakMok Middle School)",
   "2020. 3 - 2023. 1",
