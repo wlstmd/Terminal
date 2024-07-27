@@ -111,7 +111,7 @@ function processCommand(command) {
       if (args[1] === "github") {
         renderLine("Redirecting to my Github Page...", 80);
         newTab("https://github.com/wlstmd");
-      } else if (args[1] === "webPortfolio") {
+      } else if (args[1] === "portfolio") {
         renderLine("Redirecting to my Web Portfolio", 80);
         newTab("https://wlstmd.github.io/PortfolioV1/");
       } else if (args[1] === "videos") {
